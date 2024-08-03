@@ -1,3 +1,1 @@
-# React + Vite
-
-password generator using react
+# password generator using react
